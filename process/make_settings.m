@@ -19,7 +19,7 @@
 % can be used in newer versions of the program.
 %
 % Copyright (c) 2012, 2013 All Right Reserved
-% License : TBD
+% License : LGPL
 % Authors : Rinka van Dommelen,     Patrick Hanckmann
 % E-mail  : rvdommelen@hotmail.com, hanckmann@gmail.com
 % Version : WinDI, version 1

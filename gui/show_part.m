@@ -7,7 +7,7 @@
 % will be printed to screen.
 %
 % Copyright (c) 2012, 2013 All Right Reserved
-% License : TBD
+% License : % License : LGPL
 % Authors : Rinka van Dommelen,     Patrick Hanckmann
 % E-mail  : rvdommelen@hotmail.com, hanckmann@gmail.com
 % Version : WinDI, version 1
