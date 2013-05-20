@@ -1,0 +1,4 @@
+WinDI
+=====
+
+WinDI - A Wind tunnel Design Instrument  WinDI is build as a tool to test, evaluate, and optimise wind tunnels.  It's aim was to support the wind tunnel design process. WinDI is written in Matlab. It is currently not compatible with GNU Octave.  WinDI is written by Rinka van Dommelen and Patrick Hanckmann as tool to  support the research performed for the thesis submitted in partial  fulfillment of the requirements for the degree of Master of Science of  Building Physics and Services at the Department of Built Environment of  the Eindhoven University of Technology from Rinka van Dommelen. The  thesis is provided in the documentation folder.  All code is released on the LGPL license (see the copyright notices).  Note that the thesis (as provided in the documentation folder) is not  covered under this license.  Please read the Readme.txt file for more information.
