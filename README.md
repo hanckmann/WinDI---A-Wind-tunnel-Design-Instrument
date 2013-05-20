@@ -10,11 +10,11 @@ support the research performed for the thesis submitted in partial
 fulfillment of the requirements for the degree of Master of Science of 
 Building Physics and Services at the Department of Built Environment of 
 the Eindhoven University of Technology from Rinka van Dommelen. The 
-thesis is provided in the documentation folder.
+thesis is provided at http://www.rinkavandommelen.nl/WindtunnelThesisRinka.pdf.
 
 All code is released on the LGPL license (see the copyright notices). 
-Note that the thesis (as provided in the documentation folder) is not 
-covered under this license.
+Note that the thesis (as provided on the website 
+http://www.rinkavandommelen.nl) is not covered under this license.
 
 If you use the tool for your research, you can refer to it using 
 (in bibtex format):
