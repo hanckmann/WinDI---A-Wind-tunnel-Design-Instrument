@@ -27,7 +27,7 @@ If you use the tool for your research, you can refer to it using
 	  howpublished = {Matlab toolbox},
 	  month = {May},
 	  year = {2013},
-	  url = {TBD}
+	  url = {https://github.com/hanckmann/WinDI---A-Wind-tunnel-Design-Instrument}
 	}
 
 If you use information from the thesis for your research, you can refer to it
