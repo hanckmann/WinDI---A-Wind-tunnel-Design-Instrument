@@ -45,7 +45,7 @@ We hope this tool and the information will be usefull for you!
 With kind regards,
 
  Rinka van Dommelen
- Patrick @Hanckmann
+ Patrick Hanckmann
      
 
 
