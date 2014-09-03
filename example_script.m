@@ -186,7 +186,10 @@ clear i;
 clear parts_count;
 clear total_loss_coefficient_ratio total_pressure_drop;
 
-%% Pretty printing
+%% Show all parts as table
+parts_overview = parts_info_table(parts)
+
+%% Pretty printing of totals
 pretty_print(parts, wind_tunnel)
 
 
