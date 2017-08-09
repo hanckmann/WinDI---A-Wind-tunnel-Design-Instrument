@@ -21,6 +21,7 @@ http://www.rinkavandommelen.nl) is not covered under this license.
 
 If you use the tool for your research, you can refer to it using 
 (in bibtex format):
+
 	@MISC{windi2013,
 	  author = {van Dommelen, R. and Hanckmann, P},
 	  title = {WinDI - A Wind tunnel Design Instrument},
@@ -32,24 +33,27 @@ If you use the tool for your research, you can refer to it using
 
 If you use information from the thesis for your research, you can refer to it
 using (in bibtex format):
+
 	@MASTERSTHESIS{vandommelen2013,
 	  author = {van Dommelen, Rinka},
 	  title = {Design of an Atmospheric Boundary Layer Wind Tunnel},
 	  school = {Eindhoven University of Technology},
 	  year = {2013},
 	  month = {May}
-}
+	}
 
 We hope this tool and the information will be usefull for you!
 
 With kind regards,
 
  Rinka van Dommelen
+ 
  Patrick Hanckmann
      
 
 
 Copyright (c) 2012, 2013 All Right Reserved
+
 	License : LGPL
 	Authors : Rinka van Dommelen,     Patrick Hanckmann
 	E-mail  : rvdommelen@hotmail.com, hanckmann@gmail.com
