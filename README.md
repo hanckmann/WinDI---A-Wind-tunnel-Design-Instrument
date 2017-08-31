@@ -50,10 +50,10 @@ With kind regards,
      
 
 
-Copyright (c) 2012, 2013 All Right Reserved
+Copyright (c) 2012, 2017 All Right Reserved
 
 	License : LGPL
 	Authors : Rinka van Dommelen,     Patrick Hanckmann
-	E-mail  : rvdommelen@hotmail.com, hanckmann@gmail.com
+	E-mail  : rinkavdommelen@hotmail.com, hanckmann@gmail.com
 	Version : WinDI, version 1
 	Date    : May 01, 2013
